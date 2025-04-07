@@ -1,6 +1,7 @@
 #ifndef _TREE_
 #define _TREE_
 
+void print_num(int value);
 /**
  * struct binary_tree_s - Binary tree node
  *
